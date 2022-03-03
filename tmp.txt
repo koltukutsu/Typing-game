@@ -1,0 +1,2 @@
+semih      29089  0.0  0.0   2616   596 pts/3    S+   15:57   0:00 sh -c ps aux | grep "/usr/bin/python3 /packages/home/.semih/local/lib.python3/8-site/playsound.py ./waggle_dance.mp3" >> tmp.txt
+semih      29091  0.0  0.0  20480  2708 pts/3    S+   15:57   0:00 grep /usr/bin/python3 /packages/home/.semih/local/lib.python3/8-site/playsound.py ./waggle_dance.mp3
